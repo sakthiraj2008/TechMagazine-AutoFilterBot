@@ -123,5 +123,3 @@ python3 bot.py
 
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-
-
